@@ -9,7 +9,7 @@ export const moviesList = [{
     {
         Title: "Wild Daze",
         Description: "Wild Daze, If It Doesn't Challenge You, It Cannot Change You. This feature-length documentary was forged by a fierce desire",
-        Trialer: "https://www.youtube.com/embed/fYvrZvmL9Sw",
+        Trailer: "https://www.youtube.com/embed/fYvrZvmL9Sw",
         Rate: 4,
         Poster: "https://i.egycdn.com/pic/WmFwZndlY21ZWUVtRW1ibWptRUVjbWJ4UHZOenhjTkU.jpg"
     },
@@ -17,7 +17,7 @@ export const moviesList = [{
     {
         Title: "Call",
         Description: "Two people live in different times. Seo-Yeon lives in the present and Young-Sook lives in the past. One phone call connects the two, and their lives are changed irrevocably.",
-        Trialer: "https://www.youtube.com/embed/_17gbzv8eIA",
+        Trailer: "https://www.youtube.com/embed/_17gbzv8eIA",
         Rate: 5,
         Poster: "https://i.egycdn.com/pic/WmFwZndlY21ZVGptcGp2TmpFY3h4bG1tbVRqbVl6.jpg"
     },
@@ -25,7 +25,7 @@ export const moviesList = [{
     {
         Title: "Crazy Samurai Musashi",
         Description: "This film, taken around the time of Out and Deluxe, consists of the most famous battle of the swordsman Miyamoto",
-        Trialer: "https://www.youtube.com/embed/CcFfeWCMCM8",
+        Trailer: "https://www.youtube.com/embed/CcFfeWCMCM8",
         Rate: 4,
         Poster: "https://i.egycdn.com/pic/WmFwZndlY21ZVFlvTnZtYkVjdmNtWXZQbHhtamE.jpg"
     },
@@ -33,7 +33,7 @@ export const moviesList = [{
     {
         Title: "Soul",
         Description: "A musician suffers from a loss of passion, and when he suffers a strange accident and his soul is transferred to another body,",
-        Trialer: "https://www.youtube.com/embed/xOsLIiBStEs",
+        Trailer: "https://www.youtube.com/embed/xOsLIiBStEs",
         Rate: 4,
         Poster: "https://i.egycdn.com/pic/WmFwZndlY21ZWW1tcHBibUVFY21qeGF4bURDam1i.jpg"
     }

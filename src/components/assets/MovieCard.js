@@ -15,7 +15,7 @@ const MovieCard = ({ item ,Movies }) => {
                     <Card.Text className='gold'>
                         {"".padStart(Movies.Rate, '☆')}
                     </Card.Text>
-                    <Link to={`/description/${item.title}`}><Button variant="primary" className="but">Description</Button></Link>
+                    <Link to={`/description/${Movies.Title}`}><Button variant="primary" className="but">Description</Button></Link>
                     <Button variant="danger">Delete</Button>
 
                 </Card.Body>
